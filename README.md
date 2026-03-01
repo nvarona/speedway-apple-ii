@@ -169,8 +169,8 @@ Este proyecto es una adaptación con fines educativos y nostálgicos del juego o
 
 *La carretera hace zigzag mientras los obstáculos suben desde abajo hacia el coche fijo en la fila 9.*
 
-![Gameplay](screenshot.png)
-![Gameplay 2](screenshot-2.png)
+![Gameplay](snapshot.png)
+![Gameplay 2](snapshot-2.png)
 
 ---
 
